@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/weak2/task387" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/weak2/task633" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/weak2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/weak3" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
